@@ -1,4 +1,4 @@
-# referencias_apa
+# LazyRef
 
 Este projeto foi feito para quem não é fã de fazer as referências bibliográficas no final dos trabalhos/documentos. Basta inserir as referências num ficheiro Excel, deicar o código analisar e wham bam, temos referências no final do trabalho, organizadas e documentadas segundo as normas APA.
 
